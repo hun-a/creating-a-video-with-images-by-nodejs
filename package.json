@@ -1,0 +1,15 @@
+{
+  "name": "creating-a-video-with-images-by-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "videoshow": "^0.1.12"
+  }
+}
